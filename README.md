@@ -14,7 +14,7 @@ Jeżeli chodzi o moje oczekiwania to chciałabym się dowiedzieć od strony prak
 <h2>Subtask 4</h2>
 Ad. 1 Aplikacja jest panelem do zarządzania graczami, meczami i do tworzenia raportów.
 
-Ad. 2 **Fukcjonalności aplikacji:**
+Ad. 2 Fukcjonalności aplikacji:
 
 Podstrona "Strona główna":
 - informacja o ilości graczy, meczy, ilości raportów i akcji
@@ -53,17 +53,17 @@ Podstrona "Raporty":
 
 Według mnie fukcjonalności w aplikacji są intuicyjne. 
 
-**Moje sugestie:**
+Moje sugestie:
 1. Zmieniłabym wyświetlanie się zakładki "Mecze" oraz "Raporty", ponieważ są one widoczne dopiero po kliknięciu na danego gracza, a moim zdaniem powinny być widoczne od razu po zalogowaniu się.
 2. Dodatkowo w polu "Gracze" dodałabym wybór liczby wyświetlanych graczy (np. aby wyświetlana lista składała się z 15 lub 20 pozycji). 
 3. W miejscu wyszukiwania graczy dodałabym filtry co do wyszukiwania np. odnośnie nazwiska, imienia itp.
 4. Drukowanie w polu "Gracze" - zmieniłabym sposób drukowania, podział na kolumny byłby bardziej zrozumiały. 
 
-**Ad. 3** Interfejs aplikacji jest prosty, szata graficzna jest nieskomplikowana. Sam wygląd aplikacji mi się nie podoba.
+Ad. 3 Interfejs aplikacji jest prosty, szata graficzna jest nieskomplikowana. Sam wygląd aplikacji mi się nie podoba.
 
-**Ad. 4** Aplikacja jest intuicyjna i nie ma problemu ze zrozumienieniem co należy kliknąć. Budowa aplikacji jest prosta i nie wymaga długiego poznawania.
+Ad. 4 Aplikacja jest intuicyjna i nie ma problemu ze zrozumienieniem co należy kliknąć. Budowa aplikacji jest prosta i nie wymaga długiego poznawania.
 
-**Ad. 5 Zauważone błędy:**
+Ad. 5 Zauważone błędy:
 
 Mimo narzuconego języka polskiego część funkcjonalności wyświetla się po angielsku np. w pozycji Gracze wyszukiwarka jako Search lub ikony download, print, itp.
 
