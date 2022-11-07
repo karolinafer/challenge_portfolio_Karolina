@@ -84,3 +84,23 @@ Formularz edycji meczu:
 
 Raporty:
 - możliwość dodania raportu z przyszłą datą.
+
+
+<h1>Task 2</h1>
+<h2>Subtask 1</h2>
+Link: https://docs.google.com/document/d/1NImyQviNlMwI4XrVgBHEFYqZykCPW3lu0rMbg1CrXjw/edit?usp=sharing
+<h2>Subtask 2</h2>
+Link: https://docs.google.com/document/d/1wQjlDn1JxseryFMVxMB_-fKt7VJ_lo8YD_BT6a0tj1s/edit?usp=sharing
+<h2>Subtask 3</h2>
+
+**Po co piszemy test case’y?**
+
+- Test case’y piszemy w celu udokumentowania w jasny i przejrzysty sposób różne możliwości obsłużenia modułów w ramach danej aplikacji. 
+
+- Dobrze przygotowane test case’y upewniają testerów w tym, że nie pominęli żadnej ważnej funkcjonalności w aplikacji.
+
+- Dodatkowo przypadki testowe są pomocne w przypadku pisania raportów z przeprowadzonych testów po ich zakończeniu.
+
+- Co ważne, dla nowo przyjętych testerów test case’y stanowią źródło informacji o samej aplikacji, jej funkcjonalnościach oraz działaniu. 
+
+<h2> Subtask 3</h2>
