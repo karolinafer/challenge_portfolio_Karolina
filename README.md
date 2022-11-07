@@ -103,4 +103,5 @@ Link: https://docs.google.com/document/d/1wQjlDn1JxseryFMVxMB_-fKt7VJ_lo8YD_BT6a
 
 - Co ważne, dla nowo przyjętych testerów test case’y stanowią źródło informacji o samej aplikacji, jej funkcjonalnościach oraz działaniu. 
 
-<h2> Subtask 3</h2>
+<h2> Subtask 4</h2>
+Link: https://docs.google.com/document/d/164lum8wfixR88mhimARGnkl_FtmL5E5n7eGDKlgOF60/edit?usp=sharing
