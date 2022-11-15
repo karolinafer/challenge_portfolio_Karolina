@@ -87,11 +87,13 @@ Raporty:
 
 
 <h1>Task 2</h1>
-<h2>Subtask 1</h2>
+<h2>Subtask 1 - Pisanie przypadków testowych na podstawie User Story</h2>
 Link: https://docs.google.com/document/d/1NImyQviNlMwI4XrVgBHEFYqZykCPW3lu0rMbg1CrXjw/edit?usp=sharing
-<h2>Subtask 2</h2>
+
+<h2>Subtask 2 - Pisanie przypadków testowych na podstawie "własnych doświadczeń"</h2>
 Link: https://docs.google.com/document/d/1wQjlDn1JxseryFMVxMB_-fKt7VJ_lo8YD_BT6a0tj1s/edit?usp=sharing
-<h2>Subtask 3</h2>
+
+<h2>Subtask 3 - Po co piszemy test case’y?</h2>
 
 **Po co piszemy test case’y?**
 
@@ -103,5 +105,19 @@ Link: https://docs.google.com/document/d/1wQjlDn1JxseryFMVxMB_-fKt7VJ_lo8YD_BT6a
 
 - Co ważne, dla nowo przyjętych testerów test case’y stanowią źródło informacji o samej aplikacji, jej funkcjonalnościach oraz działaniu. 
 
-<h2> Subtask 4</h2>
+<h2> Subtask 4* Dla chętnych - Pisanie przypadków testowych na podstawie "własnych doświadczeń"</h2>
 Link: https://docs.google.com/document/d/164lum8wfixR88mhimARGnkl_FtmL5E5n7eGDKlgOF60/edit?usp=sharing
+
+
+<h1>Task 3</h1>
+<h2>Subtask 1 - Utworzenie formatki do zgłaszania błędów systemu</h2>
+Link: https://docs.google.com/document/d/147z2arUi5lEksBGCVgZ7hHMaC2E4KWtt4Q-fq5nMXqw/edit?usp=sharing
+
+<h2>Subtask 2 - Testowanie według planów testów i raportowanie błędów</h2>
+Link: https://docs.google.com/document/d/16OJ_e1svHgiTy7nsLeFyKooAMXqx4y9-JyIWJJkYqpw/edit?usp=sharing
+
+<h2>Subtask 3 - Raport z wykonanych testów</h2>
+Link: https://docs.google.com/document/d/1f1frvPV22I9oiWvWY_Qc5lZPbRsETe23UI06JZsm1eQ/edit?usp=sharing
+
+<h2>Subtask 4* Dla chętnych - Sesja testów eksploracyjnych</h2>
+Link: https://docs.google.com/document/d/1CknR6nF_Zg4zOYx8hCHcSHg6sTVAcTab7LOf6vR-vMs/edit?usp=sharing
