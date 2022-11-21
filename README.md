@@ -121,3 +121,43 @@ Link: https://docs.google.com/document/d/1f1frvPV22I9oiWvWY_Qc5lZPbRsETe23UI06JZ
 
 <h2>Subtask 4* Dla chętnych - Sesja testów eksploracyjnych</h2>
 Link: https://docs.google.com/document/d/1CknR6nF_Zg4zOYx8hCHcSHg6sTVAcTab7LOf6vR-vMs/edit?usp=sharing
+
+<h1>Task 4</h1>
+<h2>Subtask 1 - Utworzenie formatki do zgłaszania błędów systemu</h2>
+Link: https://docs.google.com/document/d/1cYa9G0aQBPS5Q-gDo7pfVz2-7lNvVPA2AfhXDzqTwTM/edit?usp=sharing
+
+<h2>Subtask 2 - Testowanie eksploracyjne i raportowanie błędów</h2>
+Link: https://docs.google.com/document/d/1tGG7OrpU5Lw9WrNiw4UaBRPKDlsN5Z6-HRQfB2UGqms/edit?usp=sharing
+
+<h2>Subtask 3 - Do czego służy ta aplikacja?</h2>
+
+- *Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?*
+
+Aplikacja służy do prowadzenia afirmacji i medytacji. Można w niej rozpocząć wyzwania związane z medytacją oraz prowadzić ćwiczenia oddechowe na podstawie wybranych kryteriów (czas, poziom zaawansowania). Aplikacja zawiera poradniki, które mają ułatwić prowadzenie praktyki medytacji. Dodatkowo można w niej znaleźć artykuły, podcasty tematyczne oraz muzykę czy dźwięki relaksujące.
+Aplikacja ma na celu pomagać ludziom radzić sobie ze stresem, lękiem, bezsennością, rozkojarzeniem. Kolejnym celem jest zwiększenie wiedzy i świadomości w temacie praktyki oraz samorozwoju. 
+
+- *Kto ma być użytkownikiem końcowym aplikacji?*
+
+Użytkownikiem końcowym jest każda osoba, która chciałaby ćwiczyć oddech medytować, afirmować, odpoczywać efektywnie. Aplikacja skierowana jest do kobiet oraz mężczyzn. Można w niej znaleźć elementy dla osób początkujących, średniozaawansowanych oraz mocno zaawansowanych.
+
+- *Czy według Ciebie aplikacja jest user friendly?*
+
+Aplikacja jest user friendly, interfejs jest przejrzysty. Wchodząc do aplikacji po krótkim czasie wiadomo jak się po niej poruszać, gdzie są jakie funkcjonalności. Kolorystyka aplikacji jest spójna, cała aplikacja prezentuje się dobrze. Wszystkie kafle są dobrze widoczne i dobrze opisane. Opisy zakładek oraz button’ów dobrze oddają ich zawartość. Użytkownik wie czego się spodziewać klikając dany button. Cały design aplikacji jest dobrze przemyślany, schludny i estetyczny.
+
+- *Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?*
+
+**Propozycje zmian:**
+
+1. Inny tryb kolorystyczny, aby można było wybrać (np. większy kontrast dla osób z wadami wzroku)
+2. Pole “profil” jako zakładka na dolnym panelu
+3. Inne możliwe języki do wyboru np. francuski, hiszpański
+
+
+- *Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?*
+
+Pierwszą różnicą jest poruszanie się po aplikacji, w testowaniu aplikacji webowej używa się touchpada lub myszki, a w przypadku aplikacji mobilnej dotykowego ekranu. Dodatkowo często w przypadku aplikacji mobilnej wymagane jest posiadanie konta użytkownika, a w aplikacji internetowej nie. Kolejną różnicą jest konieczność podłączenia do sieci internetowej - aplikacja internetowa wymaga bycia online, a mobilna może wyświetlać pewne elementy podczas trybu offline.
+
+
+<h2>Subtask 4* - Testy aplikacji mobilnej i webowej.</h2>
+Link: 
+
