@@ -159,5 +159,5 @@ Pierwszą różnicą jest poruszanie się po aplikacji, w testowaniu aplikacji w
 
 
 <h2>Subtask 4* - Testy aplikacji mobilnej i webowej.</h2>
-Link: 
+Link: https://testerzy.atlassian.net/
 
