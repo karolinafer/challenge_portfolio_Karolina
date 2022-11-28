@@ -184,13 +184,17 @@ Link: https://testerzy.atlassian.net/
 
 ![image](https://user-images.githubusercontent.com/115873646/204382206-6d35c402-38b8-4491-9dc7-7abdb90f049b.png)
 
-*4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ 
+*4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$*
+
+**SELECT title, price FROM movies WHERE price<7;**
+
+![image](https://user-images.githubusercontent.com/115873646/204384516-7bd7e771-4943-44e4-8005-b4643def7397.png)
+
+*5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.*
 
 
 
-*5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
-
-*6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny. 
+*6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.*
 
 *7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.*
 
