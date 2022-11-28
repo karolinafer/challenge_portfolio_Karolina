@@ -186,17 +186,23 @@ Link: https://testerzy.atlassian.net/
 
 *4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ 
 
+
+
 *5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
 
 *6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny. 
 
-7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN. 
+*7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.*
+
+**SELECT * FROM customers WHERE customer_id IN (1, 3, 5);**
+
+![image](https://user-images.githubusercontent.com/115873646/204383139-2ee4cff5-0c7e-41d1-a850-2aed1717005b.png)
 
 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
 
-9. Wyświetl dane klienta, który nie ma podanego adresu email.
+*9. Wyświetl dane klienta, który nie ma podanego adresu email.*
 
-SELECT * FROM customers WHERE email IS NULL;
+**SELECT * FROM customers WHERE email IS NULL;**
 
 ![image](https://user-images.githubusercontent.com/115873646/204380961-82fb5ffb-6d90-4cc5-8be0-800aadd32733.png)
 
