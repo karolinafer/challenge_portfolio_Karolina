@@ -196,13 +196,21 @@ Link: https://testerzy.atlassian.net/
 
 *6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.*
 
+**SELECT * FROM customers WHERE customer_id='2' OR customer_id='4' OR customer_id='6';**
+
+![image](https://user-images.githubusercontent.com/115873646/204389669-b549ce47-d9e8-4cba-a272-80b4b48293b4.png)
+
 *7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.*
 
 **SELECT * FROM customers WHERE customer_id IN (1, 3, 5);**
 
 ![image](https://user-images.githubusercontent.com/115873646/204383139-2ee4cff5-0c7e-41d1-a850-2aed1717005b.png)
 
-8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+*8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.*
+
+**SELECT * FROM actors WHERE name LIKE 'An%';**
+
+![image](https://user-images.githubusercontent.com/115873646/204387293-39cc3ab6-856e-49ee-9217-5a8c62d21676.png)
 
 *9. Wyświetl dane klienta, który nie ma podanego adresu email.*
 
