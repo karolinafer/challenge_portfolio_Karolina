@@ -220,4 +220,8 @@ Link: https://testerzy.atlassian.net/
 
 ![image](https://user-images.githubusercontent.com/115873646/204380961-82fb5ffb-6d90-4cc5-8be0-800aadd32733.png)
 
-10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+*10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.*
+
+**SELECT * FROM movies WHERE price>9 AND movie_id>='2' AND movie_id<='8';**
+
+![image](https://user-images.githubusercontent.com/115873646/204392609-a7856f1e-21ff-44c3-b6ae-79b916817603.png)
