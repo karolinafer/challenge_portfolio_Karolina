@@ -163,7 +163,30 @@ Link: https://testerzy.atlassian.net/
 
 <h1>Task 5</h1>
 <h2>Subtask 1 - Krótki kurs podstaw SQL</h2>
+
+Operatory/zapytania jakich się nauczyłam:
+
+- Select * From X
+- Select * From X Where 
+- Insert
+- Order by
+- AND
+- OR
+- NOT
+- LIKE
+- IN
+- BETWEEN
+
 <h2>Subtask 2 - Konfiguracja środowiska i wgranie bazy danych</h2>
+
+**Serwer:**
+
+![image](https://user-images.githubusercontent.com/115873646/204394419-ce68fb8d-3f5d-4415-b819-5fa05d3c7106.png)
+
+**Baza danych:**
+
+![image](https://user-images.githubusercontent.com/115873646/204394744-047fa785-7871-467e-8ec6-87a542a6c8d0.png)
+
 <h2>Subtask 3 - Kilka zadań na rozgrzewkę</h2>
 
 *1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.*
