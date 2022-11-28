@@ -192,7 +192,9 @@ Link: https://testerzy.atlassian.net/
 
 *5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.*
 
+**SELECT * FROM actors WHERE actor_id>='4' AND actor_id<='7';**
 
+![image](https://user-images.githubusercontent.com/115873646/204391846-037c57f1-f804-46d4-b175-602ee4c355b7.png)
 
 *6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.*
 
