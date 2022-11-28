@@ -166,25 +166,29 @@ Link: https://testerzy.atlassian.net/
 <h2>Subtask 2 - Konfiguracja środowiska i wgranie bazy danych</h2>
 <h2>Subtask 3 - Kilka zadań na rozgrzewkę</h2>
 
-1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+*1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.*
 
-SELECT * FROM actors ORDER BY surname;
+**SELECT * FROM actors ORDER BY surname;**
 
 ![image](https://user-images.githubusercontent.com/115873646/204381244-a3333302-9353-45fc-9afd-f95a9710e60b.png)
 
-2. Wyświetl film, który powstał w 2019 roku.
+*2. Wyświetl film, który powstał w 2019 roku.*
 
-SELECT * FROM movies WHERE year_of_production = 2019;
+**SELECT * FROM movies WHERE year_of_production = 2019;**
 
 ![image](https://user-images.githubusercontent.com/115873646/204381596-d8e67840-30be-4152-a796-cd5d432163a8.png)
 
-3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+*3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem*
 
-4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ 
+**SELECT * FROM movies WHERE year_of_production BETWEEN 1900 AND 1999;**
 
-5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+![image](https://user-images.githubusercontent.com/115873646/204382206-6d35c402-38b8-4491-9dc7-7abdb90f049b.png)
 
-6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny. 
+*4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ 
+
+*5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+
+*6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny. 
 
 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN. 
 
