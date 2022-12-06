@@ -267,6 +267,13 @@ Operatory/zapytania jakich się nauczyłam:
 
 *17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)*
 
+**SELECT name FROM actors
+UNION
+SELECT name FROM customers
+ORDER BY name;**
+
+![image](https://user-images.githubusercontent.com/115873646/205969446-2f0de117-caa8-4f74-8f4d-ca5796ad746f.png)
+
 *18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).*
 
 *19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał*
