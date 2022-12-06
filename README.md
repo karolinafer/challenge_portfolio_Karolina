@@ -259,6 +259,12 @@ Operatory/zapytania jakich się nauczyłam:
 
 *13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: [pati@mail.com](mailto:pati@mail.com)*
 
+**UPDATE customers
+SET email = 'pati@mail.com'
+WHERE customer_id = 4;**
+
+![image](https://user-images.githubusercontent.com/115873646/205977839-f92595bc-bf10-4d09-b480-ec6eb1ca381d.png)
+
 *14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).*
 
 *15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag*
