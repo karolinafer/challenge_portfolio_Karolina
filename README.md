@@ -280,6 +280,14 @@ ORDER BY name;**
 
 *20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = [honia@mail.com](mailto:honia@mail.com) oraz pseudonym = Hoa*
 
+**ALTER TABLE customers
+ADD pseudonym varchar(255);
+INSERT INTO customers (customer_id, name, surname, email, pseudonym)
+VALUES ('7', 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa');**
+
+![image](https://user-images.githubusercontent.com/115873646/205974677-7c07b8ca-dac7-4520-9c5f-96e814ffcdb2.png)
+
+
 <h2>Subtask 2 - Test</h2>
 Wynik: 14/15
 
