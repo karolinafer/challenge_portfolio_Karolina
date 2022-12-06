@@ -248,3 +248,12 @@ Operatory/zapytania jakich się nauczyłam:
 **SELECT * FROM movies WHERE price>9 AND movie_id>='2' AND movie_id<='8';**
 
 ![image](https://user-images.githubusercontent.com/115873646/204392609-a7856f1e-21ff-44c3-b6ae-79b916817603.png)
+
+
+<h1>Task 6</h1>
+<h2>Subtask 1 - Krótki kurs podstaw SQL</h2>
+<h2>Subtask 2 - Test</h2>
+Wynik: 11/15
+
+<h2>Subtask 3 - Porfolio</h2>
+Link: https://github.com/karolinafer/PORTFOLIO
